@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/JefersonOMoreira/Remote-Control/blob/main/Circuit.png" width="1000"></a></p>
+<p align="center"><img src="https://github.com/JefersonOMoreira/Remote-Control/blob/main/Circuit.png" width="1000"></a></p>
 
 ## Description
 
